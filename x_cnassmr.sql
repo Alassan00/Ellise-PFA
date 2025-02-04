@@ -2138,7 +2138,7 @@ INSERT INTO `centrale_lvc_listes` (`id`, `code`, `libelle`, `centrale_commune_id
 (1862, 'LVC18621693413290', 'Elabda', 136),
 (1863, 'LVC18631693413290', 'Oum Lekhal', 136),
 (1864, 'LVC18641693413290', 'Amrichit Adress 3', 136),
-(1865, 'LVC18651693413290', 'Chelkhett Demba', 136, 1);
+(1865, 'LVC18651693413290', 'Chelkhett Demba', 136);
 INSERT INTO `centrale_lvc_listes` (`id`, `code`, `libelle`, `centrale_commune_id`) VALUES
 (1866, 'LVC18661693413290', 'Tweijigjitt1', 136),
 (1867, 'LVC18671693413290', 'Aguerj 1', 136),
@@ -3070,7 +3070,7 @@ INSERT INTO `centrale_lvc_listes` (`id`, `code`, `libelle`, `centrale_commune_id
 (2793, 'SEBKHA0014', 'Cité plage Sebkha', 219),
 (2794, 'SEBKHA0015', 'Hotel Ikrama (Ouest)', 219),
 (2795, 'SEBKHA0016', 'Carrefour SNDE Sebkha(Est)', 219),
-(2796, 'SEBKHA0016', 'Carrefour Kassé', 219, 1);
+(2796, 'SEBKHA0016', 'Carrefour Kassé', 219);
 INSERT INTO `centrale_lvc_listes` (`id`, `code`, `libelle`, `centrale_commune_id`) VALUES
 (2797, 'SEBKHA0017', 'Robinet 10(Ouest)', 219),
 (2798, 'SEBKHA0018', 'Robinet 10 Arret -bus (Ouest)', 219),
